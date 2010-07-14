@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: Blocks
+## Notes: Simple DB display.
+## Author: Slakah
+## SavedVariables: BlocksDB
+
+
+Libs\LibStub.lua
+Libs\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1.lua
+
+Blocks.lua
